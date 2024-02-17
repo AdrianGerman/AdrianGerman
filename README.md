@@ -1,18 +1,18 @@
-<h2 align="center">Hi 👋, I'm Adrian German</h2>
-<h4 align="center">A passionate full stack developer from México 🇲🇽</h4>
+<h1 align="center">Hi 👋, I'm Adrian German</h1>
+<h2 align="center">A passionate full stack developer from México 🇲🇽</h2>
 
-<h4 align="center">know my portfolio:</h4>
+<h3 align="center">know my portfolio:</h3>
 <p align="center">
     <a href="https://adriangerman.github.io/Portfolio/" target="blank"><img
             align="center" src="https://www.svgrepo.com/show/473990/web.svg"
             alt="adrian-german/" height="30" width="40" /></a></p>
 
-<h4 align="center">Connect with me:</h4>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="mailto:adrian.german1019@gmail.com" target="blank"><img
             align="center"
             src="https://www.svgrepo.com/show/452213/gmail.svg"
-            alt="gmail" height="30" width="40" /></a>
+            alt="gmail" height="40" width="50" /></a>
     <a href="https://linkedin.com/in/adrian-german/" target="blank"><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -24,7 +24,7 @@
 
 </p>
 
-<h4 align="center">Languages and Tools ☕:</h4>
+<h3 align="center">Languages and Tools ☕:</h3>
 
 <div align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
