@@ -8,9 +8,9 @@
 
 <h2 align="center">connect with me:</h2>
 <p align="center">
-<img alt="gmail" src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=white&color=%23f54336">
-<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&color=%230882bd">
-<img alt="hackerearth" src="https://img.shields.io/badge/HackerEarth-white?style=flat-square&logo=hackerearth&color=%232c3755">
+<img alt="gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=%23f54336">
+<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&color=%230882bd">
+<img alt="hackerearth" src="https://img.shields.io/badge/HackerEarth-white?style=for-the-badge&logo=hackerearth&color=%232c3755">
 </p>
 
 <h2 align="center">languages and Tools ☕:</h2>
