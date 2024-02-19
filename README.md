@@ -4,7 +4,7 @@
 
 <h2 align="center">know my portfolio:</h2>
 <p align="center">
-    <a href="https://adriangerman.github.io/Portfolio/" target="blank"><img align="center" src="https://www.svgrepo.com/show/473990/web.svg" alt="adrian-german/" height="30" width="40" /></a></p>
+    <a href="https://adriangerman.github.io/Portfolio/" target="blank"><img align="center" src="https://github.com/AdrianGerman/AdrianGerman/assets/107493996/ba7d1cf9-8e7d-4c79-b207-4a572a383ce9"/></a></p>
 
 <h2 align="center">connect with me:</h2>
 <p align="center">
@@ -41,10 +41,10 @@
 </div>
 
 <div align="center">
-<h2 align="center">my github stats ☕:</h2>
+<h2 align="center">my github stats 🧃:</h2>
 
-![AdrianGerman's Stats](https://github-readme-stats.vercel.app/api?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=false)
 ![AdrianGerman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrianGerman&theme=shades-of-purple&hide_border=true)
+![AdrianGerman's Stats](https://github-readme-stats.vercel.app/api?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=false)
 ![AdrianGerman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
 
 </div>
