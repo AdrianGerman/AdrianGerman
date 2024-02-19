@@ -2,18 +2,18 @@
 
 <h3 align="center">A passionate full stack developer from México 🇲🇽</h3>
 
-<h2 align="center">know my portfolio:</h2>
+<h2 align="center">know my portfolio</h2>
 <p align="center">
     <a href="https://adriangerman.github.io/Portfolio/" target="blank"><img align="center" src="https://github.com/AdrianGerman/AdrianGerman/assets/107493996/ba7d1cf9-8e7d-4c79-b207-4a572a383ce9"/></a></p>
 
-<h2 align="center">connect with me:</h2>
+<h2 align="center">connect with me</h2>
 <p align="center">
 <img alt="gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=%23f54336">
 <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&color=%230882bd">
 <img alt="hackerearth" src="https://img.shields.io/badge/HackerEarth-white?style=for-the-badge&logo=hackerearth&color=%232c3755">
 </p>
 
-<h2 align="center">languages and Tools ☕:</h2>
+<h2 align="center">languages and Tools☕</h2>
 <div align="center">
     <img alt="js" src="https://img.shields.io/badge/JavaScript-withe?style=flat-square&logo=javascript&color=%232d2b55">
     <img alt="python" src="https://img.shields.io/badge/Python-withe?style=flat-square&logo=python&color=%232d2b55">
@@ -41,10 +41,10 @@
 </div>
 
 <div align="center">
-<h2 align="center">my github stats 🧃:</h2>
-
-![AdrianGerman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrianGerman&theme=shades-of-purple&hide_border=true)
+<h2 align="center">my github stats🧃</h2>
+    
 ![AdrianGerman's Stats](https://github-readme-stats.vercel.app/api?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=false)
+![AdrianGerman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrianGerman&theme=shades-of-purple&hide_border=true)
 ![AdrianGerman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
 
 </div>
