@@ -129,3 +129,14 @@
             alt="git" width="40" height="40" />
     </a>
 </div>
+
+<div align="center">
+<h3 align="center">My GitHub Stats ✒️:</h3>
+
+![AdrianGerman's Stats](https://github-readme-stats.vercel.app/api?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=false)
+
+![AdrianGerman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrianGerman&theme=shades-of-purple&hide_border=true)
+
+![AdrianGerman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+
+</div>
