@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Adrian German</h1>
-
-<h3 align="center">A passionate full stack developer from México 🇲🇽</h3>
+<div align="center">
+<img align="center" src="https://github.com/AdrianGerman/AdrianGerman/assets/107493996/bd87a717-38eb-461a-b52a-c51d7183015b" />
+</div>
 
 <h2 align="center">know my portfolio</h2>
 <p align="center">
