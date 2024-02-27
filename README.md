@@ -8,9 +8,9 @@
 
 <h2 align="center">connect with me</h2>
 <p align="center">
-<a href="mailto:adrian.german1019@gmail.com" target="blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=%23f54336"></a>
-<a href="https://linkedin.com/in/adrian-german/" target="blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&color=%230882bd"></a>
-<a href="https://www.hackerearth.com/adrian_german101" target="blank"><img alt="hackerearth" src="https://img.shields.io/badge/HackerEarth-white?style=for-the-badge&logo=hackerearth&color=%232c3755"></a>
+<a href="mailto:adrian.german1019@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=%23f54336"></a>
+<a href="https://linkedin.com/in/adrian-german/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&color=%230882bd"></a>
+<a href="https://www.hackerearth.com/adrian_german101" target="_blank"><img alt="hackerearth" src="https://img.shields.io/badge/HackerEarth-white?style=for-the-badge&logo=hackerearth&color=%232c3755"></a>
 </p>
 
 <h2 align="center">languages and Tools☕</h2>
