@@ -4,7 +4,7 @@
 
 <h2 align="center">know my portfolio</h2>
 <p align="center">
-    <a href="https://adriangerman.github.io/Portfolio/" target="blank"><img align="center" src="https://github.com/AdrianGerman/AdrianGerman/assets/107493996/ba7d1cf9-8e7d-4c79-b207-4a572a383ce9"/></a></p>
+    <a href="https://adriangerman.com/" target="blank"><img align="center" src="https://github.com/AdrianGerman/AdrianGerman/assets/107493996/ba7d1cf9-8e7d-4c79-b207-4a572a383ce9"/></a></p>
 
 <h2 align="center">connect with me</h2>
 <p align="center">
