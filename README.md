@@ -51,7 +51,11 @@
 <div align="center">
 <h2 align="center">My github stats🧃</h2>
 
+<div>
+
 ![AdrianGerman's Stats](https://github-readme-stats.vercel.app/api?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=false)
+</div>
+
 ![AdrianGerman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrianGerman&theme=shades-of-purple&hide_border=true)
 ![AdrianGerman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
 
