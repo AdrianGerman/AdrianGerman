@@ -1,12 +1,10 @@
 <div align="center">
-    <img align="center"
-        src="https://github.com/AdrianGerman/AdrianGerman/assets/107493996/bd87a717-38eb-461a-b52a-c51d7183015b" />
+    <img align="center" src="./banner.png" />
 </div>
 
 <h2 align="center">Know my portfolio</h2>
 <p align="center">
-    <a href="https://adriangerman.com/" target="blank"><img align="center"
-            src="https://github.com/AdrianGerman/AdrianGerman/assets/107493996/ba7d1cf9-8e7d-4c79-b207-4a572a383ce9" /></a>
+    <a href="https://adriangerman.com/" target="blank"><img align="center" src="./me.png" /></a>
 </p>
 
 <h2 align="center">Connect with me</h2>
@@ -51,13 +49,10 @@
 </div>
 
 <div align="center">
-    <h2 align="center">My github stats🧃</h2>
-    
-    ![AdrianGerman's
-    Stats](https://github-readme-stats.vercel.app/api?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=false)
-    ![AdrianGerman's
-    Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrianGerman&theme=shades-of-purple&hide_border=true)
-    ![AdrianGerman's Top
-    Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
-    
+<h2 align="center">My github stats🧃</h2>
+
+![AdrianGerman's Stats](https://github-readme-stats.vercel.app/api?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=false)
+![AdrianGerman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdrianGerman&theme=shades-of-purple&hide_border=true)
+![AdrianGerman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGerman&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+
 </div>
