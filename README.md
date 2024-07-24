@@ -2,11 +2,15 @@
     <img align="center" src="./banner.png" />
 </div>
 
+<div>
 <h2 align="center">Know my portfolio</h2>
 <p align="center">
     <a href="https://adriangerman.com/" target="blank"><img align="center" src="./me.png" /></a>
 </p>
+</div>
 
+
+<div>
 <h2 align="center">Connect with me</h2>
 <p align="center">
     <a href="mailto:adrian.german1019@gmail.com" target="_blank"><img alt="gmail"
@@ -16,7 +20,9 @@
     <a href="https://www.hackerrank.com/profile/adrian_german101" target="_blank"><img alt="hackerearth"
             src="https://img.shields.io/badge/HackerEarth-white?style=for-the-badge&logo=hackerearth&color=%232c3755"></a>
 </p>
+</div>
 
+<div>
 <h2 align="center">Languages and Tools ☕</h2>
 <div align="center">
     <img alt="js" src="https://img.shields.io/badge/JavaScript-withe?style=flat-square&logo=javascript&color=%232d2b55">
@@ -46,6 +52,7 @@
         src="https://img.shields.io/badge/Photoshop-white?style=flat-square&logo=adobephotoshop&color=%232d2b55">
     <img alt="linux" src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&color=%232d2b55">
     <img alt="git" src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&color=%232d2b55">
+</div>
 </div>
 
 <div align="center">
